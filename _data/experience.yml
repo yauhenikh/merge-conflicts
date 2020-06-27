@@ -1,18 +1,24 @@
 # Jobs
-# Trainer
-- company: GitHub, Inc.
-  position: GitHub Trainer
-  duration: March, 2012 &mdash; Present
-  summary: Teach all things Git, give away all the stickers, ensure world peace.
+# Junior software engineer
+- company: EPAM Systems
+  position: Junior software engineer
+  duration: January, 2020 &mdash; March, 2020
+  summary: Software development.
 
-# Job Title
-- company: Conway Meats
-  position: Web Developer
-  duration: May, 2014 &mdash; May, 2015
-  summary: Web developer for a restuarant meat provider.
+# Test engineer
+- company: ChPUP “Inzhenerno-ekspertnoe upravlenie “Stroykontrol”
+  position: Test engineer
+  duration: April, 2015 &mdash; June, 2018
+  summary: Thermal imaging surveys, making survey reports.
 
-# Intern
-- company: GitHub
-  position: Intern - Web Developer - Designer
-  duration:  June, 2017  &mdash; August, 2017
-  summary: Redesigned the services.github.com website without a calendar
+# Planning engineer
+- company: Zavod steklopaketov i arhitekturnogo stekla
+  position: Planning engineer
+  duration: July, 2013 &mdash; February, 2015
+  summary: Making technological tasks for the production of glass units; processing requests from customers; calculating of the amount of materials for the glass units production.
+
+# Marketing specialist
+- company: Zavod steklopaketov i arhitekturnogo stekla
+  position: Marketing specialist
+  duration: May, 2013 &mdash; July, 2013
+  summary: Researching new products in the field of architecture glass.
