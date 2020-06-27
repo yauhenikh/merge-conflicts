@@ -6,74 +6,74 @@
   #role: Contributor
   #duration: 2016 &mdash; Present
   #url: "https://github.com/probot/probot"
-  description: Application to automate work processes and search for data resided in corporate systems. Programming language: C&#x23;; technologies: Bot Framework v4, ASP.NET Core 2.2, SQL, Entity Framework Core
+  description: Application to automate work processes and search for data resided in corporate systems.
 
 # DataGathererRobot
 - project: DataGathererRobot
   #role: Contributor
   #duration: 2015 &mdash; Present
   url: "https://github.com/yauhenikh/DataGathererRobot"
-  description: A sort of "robot" which gather necessary data from the Internet and send it by email. Programming language: C&#x23;; technologies: OpenQA.Selenium, Microsoft.Office.Interop.Excel, Microsoft.Office.Interop.Outlook, Git
+  description: A sort of "robot" which gather necessary data from the Internet and send it by email.
   
 # LocationsParserService
 - project: LocationsParserService
   #role: Contributor
   #duration: 2015 &mdash; Present
   url: "https://github.com/yauhenikh/LocationsParserService"
-  description: Application (service based on HostedService) which able to read data from stub data source, parse the data and push it to database time to time. Programming language: C&#x23;; DBMS: MS SQL Server; technologies: .NET Core 3 Worker Service, SQL, Entity Framework Core, NLog, Command Line Utils, Git
+  description: Application (service based on HostedService) which able to read data from stub data source, parse the data and push it to database time to time.
 
 # Katla Sport (study project) - backend
 - project: Katla Sport (study project) - backend
   #role: Contributor
   #duration: 2015 &mdash; Present
   url: "https://github.com/yauhenikh/katla-sport-backend"
-  description: An internet shopping portal that trades sport goods. Programming language: C&#x23;; DBMS: MS SQL Server; technologies: ASP.NET WebAPI, SQL, Entity Framework, Git
+  description: An internet shopping portal that trades sport goods.
   
 # Katla Sport (study project) - frontend
 - project: Katla Sport (study project) - frontend
   #role: Contributor
   #duration: 2015 &mdash; Present
   url: "https://github.com/yauhenikh/katla-sport-ng"
-  description: An internet shopping portal that trades sport goods. Programming language: TypeScript; technologies: ASP.NET WebAPI, SQL, Angular6, Git
+  description: An internet shopping portal that trades sport goods.
   
 # Northwind Data Services
 - project: Northwind Data Services
   #role: Contributor
   #duration: 2015 &mdash; Present
   url: "https://github.com/yauhenikh/northwind-basic-app"
-  description: Web application, that uses client-server interaction with an external system through the external API of this system. Northwind DB is used as a data model. Programming language: C&#x23;; technologies: ASP.NET Core 3, OData v3, Git
+  description: Web application, that uses client-server interaction with an external system through the external API of this system. Northwind DB is used as a data model.
 
 # File Cabinet
 - project: File Cabinet
   #role: Contributor
   #duration: 2015 &mdash; Present
   url: "https://github.com/yauhenikh/NET.A.2019.Khotsin/tree/master/AdditionalTasks1/FileCabinet"
-  description: Console application to show, add, find, edit, delete records, import/export from/to csv, xml files. Programming language: C&#x23;; technologies: .NET Framework, Git
+  description: Console application to show, add, find, edit, delete records, import/export from/to csv, xml files.
   
 # ThermalCalc
 - project: ThermalCalc
   #role: Contributor
   #duration: 2015 &mdash; Present
   url: "https://github.com/yauhenikh/thermal-calc"
-  description: Software for calculating heat transfer resistance and thermal inertia of walls. Programming language: C&#x23;; DBMS: MS SQL Server; technologies: WPF, Entity Framework
+  description: Software for calculating heat transfer resistance and thermal inertia of walls.
 
 # YelpCamp (study project)
 - project: YelpCamp (study project)
   #role: Contributor
   #duration: 2015 &mdash; Present
   url: "https://fathomless-harbor-88962.herokuapp.com/"
-  description: Yelp-like clone application for campground campsites and outdoor activities, so users can create campgrounds, have photos, leave comments. Programming language: JavaScript; DBMS: MongoDB
+  description: Yelp-like clone application for campground campsites and outdoor activities, so users can create campgrounds, have photos, leave comments.
   
 # Color Game (study project)
 - project: Color Game (study project)
   #role: Contributor
   #duration: 2015 &mdash; Present
   url: "https://protected-tundra-57106.herokuapp.com/"
-  description: RGB color guessing game, a tool to practice RGB colors. Programming language: JavaScript
+  description: RGB color guessing game, a tool to practice RGB colors.
   
 # Patatap Clone (study project)
 - project: Patatap Clone (study project)
   #role: Contributor
   #duration: 2015 &mdash; Present
   url: "https://young-lowlands-10210.herokuapp.com/"
-  description: Simple Patatap clone application, where user can hit keys on the keyboard and each key corresponds to a sound, that is played, and a little animation. Programming language: JavaScript; libraries: paper.js, howler.js.
+  description: Simple Patatap clone application, where user can hit keys on the keyboard and each key corresponds to a sound, that is played, and a little animation.
