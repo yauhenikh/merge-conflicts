@@ -6,28 +6,28 @@
   #role: Contributor
   #duration: 2016 &mdash; Present
   #url: "https://github.com/probot/probot"
-  description: Application to automate work processes and search for data resided in corporate systems. Programming language: C#; technologies: Bot Framework v4, ASP.NET Core 2.2, SQL, Entity Framework Core
+  description: Application to automate work processes and search for data resided in corporate systems. Programming language: C&#x23;; technologies: Bot Framework v4, ASP.NET Core 2.2, SQL, Entity Framework Core
 
 # DataGathererRobot
 - project: DataGathererRobot
   #role: Contributor
   #duration: 2015 &mdash; Present
   url: "https://github.com/yauhenikh/DataGathererRobot"
-  description: A sort of "robot" which gather necessary data from the Internet and send it by email. Programming language: C#; technologies: OpenQA.Selenium, Microsoft.Office.Interop.Excel, Microsoft.Office.Interop.Outlook, Git
+  description: A sort of "robot" which gather necessary data from the Internet and send it by email. Programming language: C&#x23;; technologies: OpenQA.Selenium, Microsoft.Office.Interop.Excel, Microsoft.Office.Interop.Outlook, Git
   
 # LocationsParserService
 - project: LocationsParserService
   #role: Contributor
   #duration: 2015 &mdash; Present
   url: "https://github.com/yauhenikh/LocationsParserService"
-  description: Application (service based on HostedService) which able to read data from stub data source, parse the data and push it to database time to time. Programming language: C#; DBMS: MS SQL Server; technologies: .NET Core 3 Worker Service, SQL, Entity Framework Core, NLog, Command Line Utils, Git
+  description: Application (service based on HostedService) which able to read data from stub data source, parse the data and push it to database time to time. Programming language: C&#x23;; DBMS: MS SQL Server; technologies: .NET Core 3 Worker Service, SQL, Entity Framework Core, NLog, Command Line Utils, Git
 
 # Katla Sport (study project) - backend
 - project: Katla Sport (study project) - backend
   #role: Contributor
   #duration: 2015 &mdash; Present
   url: "https://github.com/yauhenikh/katla-sport-backend"
-  description: An internet shopping portal that trades sport goods. Programming language: C#; DBMS: MS SQL Server; technologies: ASP.NET WebAPI, SQL, Entity Framework, Git
+  description: An internet shopping portal that trades sport goods. Programming language: C&#x23;; DBMS: MS SQL Server; technologies: ASP.NET WebAPI, SQL, Entity Framework, Git
   
 # Katla Sport (study project) - frontend
 - project: Katla Sport (study project) - frontend
@@ -41,21 +41,21 @@
   #role: Contributor
   #duration: 2015 &mdash; Present
   url: "https://github.com/yauhenikh/northwind-basic-app"
-  description: Web application, that uses client-server interaction with an external system through the external API of this system. Northwind DB is used as a data model. Programming language: C#; technologies: ASP.NET Core 3, OData v3, Git
+  description: Web application, that uses client-server interaction with an external system through the external API of this system. Northwind DB is used as a data model. Programming language: C&#x23;; technologies: ASP.NET Core 3, OData v3, Git
 
 # File Cabinet
 - project: File Cabinet
   #role: Contributor
   #duration: 2015 &mdash; Present
   url: "https://github.com/yauhenikh/NET.A.2019.Khotsin/tree/master/AdditionalTasks1/FileCabinet"
-  description: Console application to show, add, find, edit, delete records, import/export from/to csv, xml files. Programming language: C#; technologies: .NET Framework, Git
+  description: Console application to show, add, find, edit, delete records, import/export from/to csv, xml files. Programming language: C&#x23;; technologies: .NET Framework, Git
   
 # ThermalCalc
 - project: ThermalCalc
   #role: Contributor
   #duration: 2015 &mdash; Present
   url: "https://github.com/yauhenikh/thermal-calc"
-  description: Software for calculating heat transfer resistance and thermal inertia of walls. Programming language: C#; DBMS: MS SQL Server; technologies: WPF, Entity Framework
+  description: Software for calculating heat transfer resistance and thermal inertia of walls. Programming language: C&#x23;; DBMS: MS SQL Server; technologies: WPF, Entity Framework
 
 # YelpCamp (study project)
 - project: YelpCamp (study project)
